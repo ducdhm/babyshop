@@ -1,0 +1,19 @@
+textarea {
+	resize: none;
+}
+/* Login panel */
+.login-panel {
+	margin-top: 120px;
+}
+/* Previewer panel */
+#photo-preview {
+	position: relative;
+	border: 1px solid #ddd;
+	float: left;
+}
+#delete-preview {
+	position: absolute;
+	padding: 3px;
+	right: -25px;
+	top: -1px;
+}
